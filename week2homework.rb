@@ -16,3 +16,4 @@ def price_of_gold_from_kilograms(kilograms)
 ounces = kilograms*35.274
 price_of_gold(ounces)
 end
+
