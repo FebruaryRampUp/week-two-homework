@@ -16,14 +16,14 @@ def price_of_gold_from_kilograms(kilos_gold)
 	price_of_gold(ounces_gold)
 end
 
-# puts "Testing, testing, one two three."
-# puts "Enter an amount of gold in ounces to get the price in dollars:"
-# oz = gets.chomp.to_i
-# puts price_of_gold(oz)
-# puts "Enter an amount of gold in pounds to get the price in dollars:"
-# lbs = gets.chomp.to_i
-# puts price_of_gold_from_pounds(lbs)
-# puts "Enter an amount of gold in kilograms to get the price in dollars:"
-# kilos = gets.chomp.to_i
-# puts price_of_gold_from_kilograms(kilos)
-# puts "Done and done."
+puts "Testing, testing, one two three."
+puts "Enter an amount of gold in ounces to get the price in dollars:"
+oz = gets.chomp.to_i
+puts price_of_gold(oz)
+puts "Enter an amount of gold in pounds to get the price in dollars:"
+lbs = gets.chomp.to_i
+puts price_of_gold_from_pounds(lbs)
+puts "Enter an amount of gold in kilograms to get the price in dollars:"
+kilos = gets.chomp.to_i
+puts price_of_gold_from_kilograms(kilos)
+puts "Done and done."
