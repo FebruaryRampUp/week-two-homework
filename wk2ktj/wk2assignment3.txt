@@ -1,0 +1,16 @@
+Assignment 3
+
+c. age = 25
+
+define say hello = say hello is the name of the function 
+
+def say_hello(name) = name is a variable 
+
+puts = writes out the following string
+
+hello = a string saying hello 
+
+name = is a variable, placeholder for an actual name
+
+ends the instructions 
+
